@@ -1,4 +1,4 @@
 # danewilliams.me  
-My personal website built with [hugo](https://gohugo.io/)  
+My personal website: [danewilliams.me](https://www.danewilliams.me/)  
   
-View the site at [danewilliams.me](https://www.danewilliams.me/)
+Built with [hugo](https://gohugo.io/) & [coder](https://github.com/luizdepra/hugo-coder/)  
