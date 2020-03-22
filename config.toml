@@ -18,7 +18,7 @@ publishDir = "docs/"
 
 [params]
     author = "Dane Williams"
-    info = "Computer Science Student and Amphibian"
+    info = "Computer Science Undergrad at Notre Dame"
     description = "Dane Williams' Personal Website"
     keywords = "developer,student,blog"
     avatarurl = "/images/DaneWilliamsHeadshot.jpg"
