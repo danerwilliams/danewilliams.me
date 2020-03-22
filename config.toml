@@ -1,5 +1,5 @@
-baseurl = "http://www.example.com"
-title = "johndoe"
+baseurl = "https://www.danewilliams.me"
+title = "danewilliams.me"
 
 theme = "hugo-coder"
 
