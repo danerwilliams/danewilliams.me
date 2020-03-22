@@ -3,11 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.danewilliams.me/</loc>
+    <lastmod>2020-03-22T00:52:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.danewilliams.me/posts/initial-post/</loc>
+    <lastmod>2020-03-22T00:52:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.danewilliams.me/posts/</loc>
+    <lastmod>2020-03-22T00:52:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.danewilliams.me/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.danewilliams.me/categories/</loc>
   </url>
   
   <url>
-    <loc>https://www.danewilliams.me/</loc>
+    <loc>https://www.danewilliams.me/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.danewilliams.me/projects/</loc>
   </url>
   
   <url>

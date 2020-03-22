@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on danewilliams.me</title>
+    <link>https://www.danewilliams.me/posts/</link>
+    <description>Recent content in Posts on danewilliams.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 22 Mar 2020 00:52:09 -0700</lastBuildDate>
+    
+	<atom:link href="https://www.danewilliams.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Initial Post</title>
+      <link>https://www.danewilliams.me/posts/initial-post/</link>
+      <pubDate>Sun, 22 Mar 2020 00:52:09 -0700</pubDate>
+      
+      <guid>https://www.danewilliams.me/posts/initial-post/</guid>
+      <description>Welcome to my blog! I plan to use this site to share my projects and code with the world, and may occasionally speak to other interests of mine.</description>
+    </item>
+    
+  </channel>
+</rss>

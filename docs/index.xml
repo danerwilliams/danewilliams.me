@@ -6,9 +6,48 @@
     <description>Recent content on danewilliams.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 22 Mar 2020 00:52:09 -0700</lastBuildDate>
     
 	<atom:link href="https://www.danewilliams.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Initial Post</title>
+      <link>https://www.danewilliams.me/posts/initial-post/</link>
+      <pubDate>Sun, 22 Mar 2020 00:52:09 -0700</pubDate>
+      
+      <guid>https://www.danewilliams.me/posts/initial-post/</guid>
+      <description>Welcome to my blog! I plan to use this site to share my projects and code with the world, and may occasionally speak to other interests of mine.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://www.danewilliams.me/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.danewilliams.me/about/</guid>
+      <description>I am an undergraduate computer science student at the University of Notre Dame graduating in 2022. Outside of my studies I spend much of my time at the pool playing for the Notre Dame men&amp;rsquo;s water polo team. Originally, I am from the Bellevue/Eastside area of Seattle, where I attended Eastside Catholic School and graduated in 2018. I am also a proud alumni of the Bellevue Club Swim Team, where I swam for Klaas, Andrew, Dwight, Lee, and Ash since 9 years old until I graduated high school.</description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>https://www.danewilliams.me/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.danewilliams.me/contact/</guid>
+      <description>Get In Touch Feel free to get in touch with me!
+Email: dane_williams@outlook.com
+I am happy to talk about projects or anything for that matter. Please note that the email I have provided is my personal email which I don&amp;rsquo;t always check regularly. Normally, I respond to emails within a couple of days, but it&amp;rsquo;s always possible that you catch me during midterms week and I am a bit slower.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://www.danewilliams.me/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.danewilliams.me/projects/</guid>
+      <description>What I&amp;rsquo;ve Been Working On I will try to update this page as I complete new projects, however the most up to date location of all my projects is of course my github</description>
+    </item>
     
   </channel>
 </rss>
