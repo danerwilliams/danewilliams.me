@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://www.danewilliams.me/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/categories/"
+                href="https://www.danewilliams.me/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="https://www.danewilliams.me/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://www.danewilliams.me/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/"
+                href="https://www.danewilliams.me/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/"
+                href="https://www.danewilliams.me/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>https://www.danewilliams.me/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/series/"
+                href="https://www.danewilliams.me/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/series/"
+                href="https://www.danewilliams.me/series/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://www.danewilliams.me/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/"
+                href="https://www.danewilliams.me/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
+                href="https://www.danewilliams.me/tags/"
                 />
   </url>
   
