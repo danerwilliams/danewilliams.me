@@ -13,6 +13,9 @@ pygmentscodefencesguesssyntax = true
 
 #disqusShortname = "yourdiscussshortname"
 
+#publish to docs directory for compatibility with github pages
+publishDir = "docs/"
+
 [params]
     author = "Dane Williams"
     info = "Computer Science Student and Amphibian"
