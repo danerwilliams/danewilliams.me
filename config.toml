@@ -26,8 +26,6 @@ publishDir = "docs/"
 	#favicon_32 = "/img/favicon-32x32.png"
 	#favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "status: \u2699 grinding"
-
     hidecredits = false
     hidecopyright = false
 	since = 2020
@@ -55,6 +53,11 @@ publishDir = "docs/"
     icon = "fab fa-gitlab"
     weight = 3
     url = "https://gitlab.com/dwilli36/"
+[[params.social]]
+	name = "Resume"
+	icon = "far fa-file"
+	weight = 4
+	url = "https://github.com/danerwilliams/resume/blob/master/DaneWilliamsResume.pdf"
 
 # Menu links
 [[menu.main]]
