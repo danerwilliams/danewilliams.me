@@ -54,7 +54,7 @@
     },
     "move": {
       "enable": true,
-      "speed": 4,
+      "speed": 2,
       "direction": "none",
       "random": false,
       "straight": false,
@@ -81,14 +81,14 @@
     },
     "modes": {
       "grab": {
-        "distance": 300,
+        "distance": 250,
         "line_linked": {
           "opacity": 1
         }
       },
       "bubble": {
         "distance": 400,
-        "size": 20,
+        "size": 10,
         "duration": 1,
         "opacity": 8,
         "speed": 2
