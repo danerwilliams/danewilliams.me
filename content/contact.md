@@ -6,9 +6,7 @@ slug = "contact"
 # Get In Touch
 Feel free to get in touch with me!
 
-Email: dane_williams@outlook.com
-
-I am happy to talk about projects or anything for that matter. Please note that the email I have provided is my personal email which I don't always check regularly. Normally, I respond to emails within a couple of days, but it's always possible that you catch me during midterms week and I am a bit slower.
+Email: dwilli36@nd.edu
 
 
 # Recruiters
