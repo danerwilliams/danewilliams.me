@@ -19,7 +19,7 @@ I have many interests both related and unrelated to my studies, by no means is t
 	- Running a raspberry pi desktop with [Arch](https://archlinuxarm.org/platforms/armv8/broadcom/raspberry-pi-4) and [i3wm](https://i3wm.org/)
 
 ### Sports
-* Water Polo: I play for Notre Dame follow the US national team
+* Water Polo: I play for Notre Dame and follow the US national team
 * Swimming: I keep up with NCAA, US national, and international swimming
 * College Football: I go to Notre Dame so this should be somewhat self explanatory. I also have a favorite [hype video](https://www.youtube.com/watch?v=qNtc2lx3pSY).
 * NFL: I am a huge Seahawks fan and look forward to Pete Carroll, Russell Wilson, and John Schneider leading us to another Super Bowl victory.
