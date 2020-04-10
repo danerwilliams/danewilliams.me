@@ -5,9 +5,8 @@ title = "My first open source contribution! (dracula/tmux)"
 +++
 
 ## Introduction
-For those of you who know me well, you would realize that I use the awesome [dracula theme](draculatheme.com) for pretty much every development tool I use. 
-Unfourtunately, one of my favorite tools, [tmux](tmux.github.io) did not have a dracula theme (until now).
-Much to my surprise, the founder of dracula asked me to transfer my theme to the official dracula organization, and I am now the maintainer of the github repo, which makes this my first ever open source contribution!
+Recently I have begun using the awesome [dracula theme](https://draculatheme.com/) for most of my development tools. 
+Unfortunately, one of my favorite tools, [tmux](https://github.com/tmux/tmux/wiki) did not have a dracula theme (until now).
 
 ## Methodology
 A couple weeks ago towards the beginning of corona virus quarantine here in the Bay Area, I decided to take it upon myself to design my own tmux dracula theme. 
