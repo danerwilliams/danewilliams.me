@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="author" content="Dane Williams">
+    <meta name="description" content="Dane Williams&#39; Personal Website">
+    <meta name="keywords" content="developer,student,blog">
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="My first open source contribution! (dracula/tmux)"/>
+<meta name="twitter:description" content="Introduction For those of you who know me well, you would realize that I use the awesome dracula theme for pretty much every development tool I use. Unfourtunately, one of my favorite tools, tmux did not have a dracula theme (until now). Much to my surprise, the founder of dracula asked me to transfer my theme to the official dracula organization, and I am now the maintainer of the github repo, which makes this my first ever open source contribution!"/>
+
+    <meta property="og:title" content="My first open source contribution! (dracula/tmux)" />
+<meta property="og:description" content="Introduction For those of you who know me well, you would realize that I use the awesome dracula theme for pretty much every development tool I use. Unfourtunately, one of my favorite tools, tmux did not have a dracula theme (until now). Much to my surprise, the founder of dracula asked me to transfer my theme to the official dracula organization, and I am now the maintainer of the github repo, which makes this my first ever open source contribution!" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.danewilliams.me/posts/my-first-open-source-contribution/" />
+<meta property="article:published_time" content="2020-04-09T22:59:19-07:00" />
+<meta property="article:modified_time" content="2020-04-09T22:59:19-07:00" />
+
+
+    
+      <base href="https://www.danewilliams.me/posts/my-first-open-source-contribution/">
+    
+    <title>
+  My first open source contribution! (dracula/tmux) · danewilliams.me
+</title>
+
+    
+      <link rel="canonical" href="https://www.danewilliams.me/posts/my-first-open-source-contribution/">
+    
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+
+    
+      
+      
+      <link rel="stylesheet" href="https://www.danewilliams.me/css/coder.min.a4f332213a21ce8eb521670c614470c58923aaaf385e2a73982c31dd7642decb.css" integrity="sha256-pPMyITohzo61IWcMYURwxYkjqq84XipzmCwx3XZC3ss=" crossorigin="anonymous" media="screen" />
+    
+
+    
+
+    
+      
+        
+        
+        <link rel="stylesheet" href="https://www.danewilliams.me/css/coder-dark.min.83a2010dac9f59f943b3004cd6c4f230507ad036da635d3621401d42ec4e2835.css" integrity="sha256-g6IBDayfWflDswBM1sTyMFB60DbaY102IUAdQuxOKDU=" crossorigin="anonymous" media="screen" />
+      
+    
+
+    
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="https://www.danewilliams.me/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://www.danewilliams.me/images/favicon-16x16.png" sizes="16x16">
+
+    <meta name="generator" content="Hugo 0.68.3" />
+  </head>
+
+  
+  
+    
+  
+  <body class="colorscheme-dark">
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="https://www.danewilliams.me/">
+      danewilliams.me
+    </a>
+    
+    <input type="checkbox" id="menu-toggle" />
+    <label class="menu-button float-right" for="menu-toggle"><i class="fas fa-bars"></i></label>
+    <ul class="navigation-list">
+      
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="https://www.danewilliams.me/about/">About</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="https://www.danewilliams.me/posts/">Blog</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="https://www.danewilliams.me/projects/">Projects</a>
+          </li>
+        
+      
+      
+    </ul>
+    
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">My first open source contribution! (dracula/tmux)</h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fas fa-calendar"></i>
+              <time datetime='2020-04-09T22:59:19-07:00'>
+                April 9, 2020
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fas fa-clock"></i>
+              4-minute read
+            </span>
+          </div>
+          
+          
+        </div>
+      </header>
+
+      <div>
+        
+        <h2 id="introduction">Introduction</h2>
+<p>For those of you who know me well, you would realize that I use the awesome <a href="draculatheme.com">dracula theme</a> for pretty much every development tool I use.
+Unfourtunately, one of my favorite tools, <a href="tmux.github.io">tmux</a> did not have a dracula theme (until now).
+Much to my surprise, the founder of dracula asked me to transfer my theme to the official dracula organization, and I am now the maintainer of the github repo, which makes this my first ever open source contribution!</p>
+<h2 id="methodology">Methodology</h2>
+<p>A couple weeks ago towards the beginning of corona virus quarantine here in the Bay Area, I decided to take it upon myself to design my own tmux dracula theme.
+Mostly I just wanted to have a tmux environment that would match my vim, vs code, and terminal.app theme.
+Something else that was important to me in designing the theme though was to make sure that it would be entirely plug and play.
+A lot of the other tmux themes and extensions out there require more work to set up than I would like.
+My goal was to make it as easy as adding a line to your .tmux.conf and the rest would be handled by your plugin manager such as tpm.</p>
+<h2 id="features">Features</h2>
+<p>Ultimately, I decided I wanted a few things displayed in my tmux status bar:</p>
+<ul>
+<li>Date / time information</li>
+<li>Network information</li>
+<li>Laptop battery percentage and charging status</li>
+<li>Current location and weather</li>
+<li>Prefix activation status</li>
+</ul>
+<h2 id="implementation">Implementation</h2>
+<p>Most of this was relatively easy to implement as I already had experience with bash scripting.
+I mostly just had to find some of the commands for changing tmux configurations.</p>
+<ul>
+<li>Date / time: This was extremely easy. There is built in functionality for including date / time information to the tmux status bar.</li>
+<li>Prefix activation: Similarly easy as date/time for the same reasons</li>
+<li>Battery: Getting battery information was not terribly difficult. But it did take a decent bit of troublshooting. Ultimately I settled on using a Unix pipeline that retrieved the relevant information and then displays that in the status bar.</li>
+<li>SSID: Very similar to battery. Create a unix pipeline to retrieve the information and then include it in the tmux status bar.</li>
+<li>Weather: This was by far the most challenging. Basically the solution I ended up with uses ipinfo.io to retrieve current location data and then I scrape weather information from a government site with US weather data.</li>
+</ul>
+<h2 id="challenges">Challenges</h2>
+<p>A challenge I ran into with the weather was the limit on requests I could recieve with out needing to authenticate on ipinfo.io.
+For the other features of the status bar, I needed to have a fairly frequent refresh rate (it is currently 5 seconds).
+However, at that rate I would run out of requests after just several minutes of usage.
+There is no native solution for tmux to have different refresh rates for different parts of the status bar, so I needed to do a little bit of hackery to make things work.
+I added a wrapper script that would run my script for gaining weather information every 20 minutes while tmux is open.
+Then, in the main file which runs the entire extension every time you start tmux, I run the wrapper script and have it&rsquo;s output redirected to a weather.txt file.
+Instead of calling the the script to be outputted to the status bar, I simply <code>cat weather.txt</code> instead.
+Now the file is catted every 5 seconds as the refresh rate is going to match the rest of the status bar, but I only really update it every 20 minutes in order to use a reasonable number of API calls because the wrapper function only updates weather.txt every 20 minutes!</p>
+<h2 id="deployment">Deployment</h2>
+<p>Deploying the extension was super easy as tmux plugin manager automatically will pull it from a github account when you add the appropriate line to your .tmux.conf</p>
+<h2 id="open-source">Open Source</h2>
+<p>The coolest part of this project was getting added to the official dracula theme.
+I noticed some random github users star and fork my theme, so I figured I would post a link to my repo on the official dracula theme page where there was an open issue requesting for a tmux theme.
+The next morning I woke up to an issue opened on my repo from the founder of dracula asking me if I would like to transfer the repo to the official dracula organization and become the maintainer.
+Of course, I was super stoked and said yes right away!
+Now that it is part of the actual dracula organization I have been able to get significantly more exposure to my project and have had several issues opened asking for new features and have already merged three pull requests too.
+Watching people from around the world contribute to something I made is definitely a really fulfulling and cool experience, so it&rsquo;s safe to say I absolutely want to continue getting more involved with open source.</p>
+<h2 id="check-it-out">Check It Out!</h2>
+<p>You can checkout my page on the official dracula website and the github repo below :)<br>
+<a href="https://draculatheme.com/tmux">draculatheme.com/tmux</a><br>
+<a href="https://github.com/dracula/tmux">github.com/dracula/tmux</a></p>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+      </div>
+
+      <footer class="footer">
+  <section class="container">
+    
+    
+    
+    
+  </section>
+</footer>
+
+    </main>
+
+    
+
+    
+
+  </body>
+
+</html>

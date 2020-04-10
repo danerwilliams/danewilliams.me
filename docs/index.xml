@@ -6,10 +6,19 @@
     <description>Recent content on danewilliams.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Mar 2020 00:52:09 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2020 22:59:19 -0700</lastBuildDate>
     
 	<atom:link href="https://www.danewilliams.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My first open source contribution! (dracula/tmux)</title>
+      <link>https://www.danewilliams.me/posts/my-first-open-source-contribution/</link>
+      <pubDate>Thu, 09 Apr 2020 22:59:19 -0700</pubDate>
+      
+      <guid>https://www.danewilliams.me/posts/my-first-open-source-contribution/</guid>
+      <description>Introduction For those of you who know me well, you would realize that I use the awesome dracula theme for pretty much every development tool I use. Unfourtunately, one of my favorite tools, tmux did not have a dracula theme (until now). Much to my surprise, the founder of dracula asked me to transfer my theme to the official dracula organization, and I am now the maintainer of the github repo, which makes this my first ever open source contribution!</description>
+    </item>
     
     <item>
       <title>Initial Post</title>
@@ -26,18 +35,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.danewilliams.me/about/</guid>
-      <description>I am an undergraduate computer science student at the University of Notre Dame graduating in 2022. Outside of my studies I spend much of my time at the pool playing for the Notre Dame men&amp;rsquo;s water polo team. Originally, I am from the Bellevue/Eastside area of Seattle, where I attended Eastside Catholic School and graduated in 2018. I am also a proud alumni of the Bellevue Club Swim Team, where I swam since 9 years old until I graduated high school.</description>
-    </item>
-    
-    <item>
-      <title>Contact Me</title>
-      <link>https://www.danewilliams.me/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.danewilliams.me/contact/</guid>
-      <description>Get In Touch Feel free to get in touch with me!
-Email: dwilli36@nd.edu
-Recruiters If you are a recruiter/employer, you can view my resume at this github repo, where appropriate contact information is available.</description>
+      <description>I am an undergraduate computer science student at the University of Notre Dame graduating in 2022. Outside of my studies I spend much of my time at the pool playing for the Notre Dame men&amp;rsquo;s water polo team. Originally, I am from the Bellevue/Eastside area of Seattle, where I attended Eastside Catholic School and graduated in 2018. I am also a proud alumni of the Bellevue Club Swim Team. Since leaving for college my family moved to the Bay Area so that is where I reside while on breaks.</description>
     </item>
     
     <item>

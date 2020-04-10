@@ -6,10 +6,19 @@
     <description>Recent content in Posts on danewilliams.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Mar 2020 00:52:09 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2020 22:59:19 -0700</lastBuildDate>
     
 	<atom:link href="https://www.danewilliams.me/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My first open source contribution! (dracula/tmux)</title>
+      <link>https://www.danewilliams.me/posts/my-first-open-source-contribution/</link>
+      <pubDate>Thu, 09 Apr 2020 22:59:19 -0700</pubDate>
+      
+      <guid>https://www.danewilliams.me/posts/my-first-open-source-contribution/</guid>
+      <description>Introduction For those of you who know me well, you would realize that I use the awesome dracula theme for pretty much every development tool I use. Unfourtunately, one of my favorite tools, tmux did not have a dracula theme (until now). Much to my surprise, the founder of dracula asked me to transfer my theme to the official dracula organization, and I am now the maintainer of the github repo, which makes this my first ever open source contribution!</description>
+    </item>
     
     <item>
       <title>Initial Post</title>
