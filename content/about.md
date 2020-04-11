@@ -13,7 +13,7 @@ I have many interests both related and unrelated to my studies:
 * Apple: I'm a huge Apple fan and am a macbook, iphone, and ipad pro user. In 2015 I also built a [hackintosh](https://www.tonymacx86.com/).
 * Linux/Unix: My [systems programming](https://www3.nd.edu/~pbui/teaching/cse.20289.sp20/) class at Notre Dame introduced me to Linux/Unix concepts and tools. 
 	- Try to work more with Linux by getting involved in [ND Linux Users Group](https://ndlug.org/)
-	- Running a raspberry pi desktop with [Arch](https://archlinuxarm.org/platforms/armv8/broadcom/raspberry-pi-4) and [i3wm](https://i3wm.org/)
+	- Running a raspberry pi desktop with [manjaro xfce](https://manjaro.org/download/#raspberry-pi-4-xfce)
 	- I am a contributor and maintainer for the [dracula theme](https://draculatheme.com/tmux)
 
 ### Sports
