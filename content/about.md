@@ -3,7 +3,7 @@ title = "About Me"
 slug = "about"
 +++
 
-I am an undergraduate [computer science](https://cse.nd.edu/) student at the [University of Notre Dame](https://www.nd.edu/) graduating in 2022. Outside of my studies I spend much of my time at the pool playing for the Notre Dame [men's water polo team](http://sites.nd.edu/waterpolo/). Originally, I am from the Bellevue/Eastside area of Seattle, where I attended [Eastside Catholic School](https://www.eastsidecatholic.org/) and graduated in 2018. I am also a proud alumni of the [Bellevue Club Swim Team](https://www.teamunify.com/team/onsbcst/page/home). Since leaving for college my family moved to the Bay Area so that is where I reside while on breaks. While at Notre Dame I live in [Fisher Hall](https://fisher.nd.edu/#/), and spend much of my time in room B010 (better known as coder quad) working on school work and other CS projects. 
+I am an undergraduate [computer science](https://cse.nd.edu/) student at the [University of Notre Dame](https://www.nd.edu/) graduating in 2022. Outside of my studies I spend much of my time at the pool playing for the Notre Dame [men's water polo team](http://sites.nd.edu/waterpolo/). Originally, I am from the Bellevue/Eastside area of Seattle, where I attended [Eastside Catholic School](https://www.eastsidecatholic.org/) and graduated in 2018. I am also a proud alumni of the [Bellevue Club Swim Team](https://www.teamunify.com/team/onsbcst/page/home). Since leaving for college my family moved to the Bay Area so that is where I reside while on breaks. While at Notre Dame I live in [Fisher Hall](https://fisher.nd.edu/#/). 
 
 
 ## Interests
@@ -17,7 +17,7 @@ I have many interests both related and unrelated to my studies:
 	- I am a contributor and maintainer for the [dracula theme](https://draculatheme.com/tmux)
 
 ### Sports
-* Water Polo: I play for Notre Dame and follow the US national team
+* Water Polo: I play for Notre Dame and pay some attention to the US national team
 * Swimming: I keep up with NCAA, US national, and international swimming
 * College Football: Obviously a fan of ND football
 * NFL: I am a huge Seahawks fan and look forward to Pete Carroll, Russell Wilson, and John Schneider leading us to another Super Bowl victory.
