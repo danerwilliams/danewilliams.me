@@ -18,7 +18,7 @@
       
       <guid>https://www.danewilliams.me/posts/my-first-open-source-contribution/</guid>
       <description>Introduction Recently I have begun using the awesome dracula theme for most of my development tools. Unfortunately, one of my favorite tools, tmux did not have a dracula theme (until now).
-Methodology A couple weeks ago towards the beginning of corona virus quarantine here in the Bay Area, I decided to take it upon myself to design my own tmux dracula theme. Mostly I just wanted to have a tmux environment that would match my vim, vs code, and terminal.</description>
+Methodology A couple weeks ago, towards the beginning of corona virus quarantine here in the Bay Area, I decided to take it upon myself to develop a dracula theme extension for tmux. Mostly I just wanted to have a tmux environment that would match my vim, vs code, slack, and terminal.</description>
     </item>
     
     <item>

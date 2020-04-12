@@ -9,11 +9,10 @@ Recently I have begun using the awesome [dracula theme](https://draculatheme.com
 Unfortunately, one of my favorite tools, [tmux](https://github.com/tmux/tmux/wiki) did not have a dracula theme (until now).
 
 ## Methodology
-A couple weeks ago towards the beginning of corona virus quarantine here in the Bay Area, I decided to take it upon myself to design my own tmux dracula theme. 
-Mostly I just wanted to have a tmux environment that would match my vim, vs code, and terminal.app theme. 
-Something else that was important to me in designing the theme though was to make sure that it would be entirely plug and play. 
-A lot of the other tmux themes and extensions out there require more work to set up than I would like. 
-My goal was to make it as easy as adding a line to your .tmux.conf and the rest would be handled by your plugin manager such as tpm. 
+A couple weeks ago, towards the beginning of corona virus quarantine here in the Bay Area, I decided to take it upon myself to develop a dracula theme extension for tmux.
+Mostly I just wanted to have a tmux environment that would match my vim, vs code, slack, and terminal.app theme.
+Something else that was important to me in designing the theme though was to make sure that it would be entirely plug and play.
+My goal was to make it as easy as adding a line to your .tmux.conf and the rest would be handled by your plugin manager such as tpm.
 
 ## Features
 Ultimately, I decided I wanted a few things displayed in my tmux status bar:
@@ -29,7 +28,7 @@ I mostly just had to find some of the commands for changing tmux configurations.
   
 * Date / time: This was extremely easy. There is built in functionality for including date / time information to the tmux status bar.  
 * Prefix activation: Similarly easy as date/time for the same reasons  
-* Battery: Getting battery information was not terribly difficult. But it did take a decent bit of troublshooting. Ultimately I settled on using a Unix pipeline that retrieved the relevant information and then displays that in the status bar.  
+* Battery: Getting battery information was not terribly difficult. But it did take a decent bit of troubleshooting. Ultimately I settled on using a Unix pipeline that retrieved the relevant information and then displays that in the status bar.  
 * SSID: Very similar to battery. Create a unix pipeline to retrieve the information and then include it in the tmux status bar.  
 * Weather: This was by far the most challenging. Basically the solution I ended up with uses ipinfo.io to retrieve current location data and then I scrape weather information from a government site with US weather data.  
 
