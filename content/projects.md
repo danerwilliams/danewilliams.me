@@ -14,9 +14,11 @@ I made this website with [hugo](https://gohugo.io/) and hosted it with [github p
 
 ## tmux-dracula
 * March 2020
-* Github: [tmux-dracula](https://github.com/danerwilliams/tmux-dracula)
+* Github: [dracula/tmux](https://github.com/dracula/tmux)
 
-I am a huge fan of the [dracula theme](https://draculatheme.com/) and use it for vim, terminal.app, slack, and vs code. The only thing missing for me to have an all dracula set up was a theme for tmux. There are some floating around github, but most of them use powerline which I was not really interested in and I found my self unsatisfied with the options that already existed. With the extra time I had while classes are online due to COVID-19, I took it upon myself to make an all in one, plug and play tmux extension folowing the dracula color scheme! I built the extension with bash scripts that gather the information I desired to be in the status bar. I have a script for gathering the current network SSID and another script for the battery percentage and charging status which are pretty much simple Unix pipelines. Additionally, there is a script for fetching the current location from an api, and then using that information to scrape the current weather off the internet. This script runs in a wrapper that updates the weather information every 1000 seconds.
+I am a huge fan of the [dracula theme](https://draculatheme.com/) and use it for vim, terminal.app, slack, and vs code. The only thing missing for me to have an all dracula set up was a theme for tmux. There are some floating around github, but most of them use powerline which I was not really interested in and I found my self unsatisfied with the options that already existed. With the extra time I had while classes are online due to COVID-19, I took it upon myself to make an all in one, plug and play tmux extension folowing the dracula color scheme! I built the extension with bash scripts that gather the information I desired to be in the status bar. I have a script for gathering the current network SSID and another script for the battery percentage and charging status which are pretty much simple Unix pipelines. Additionally, there is a script for fetching the current location from an api, and then using that information to scrape the current weather off the internet. This script runs in a wrapper that updates the weather information every 1000 seconds.  
+  
+UPDATE: (April 2020) I was asked to transfer my project to the dracula organization, so my theme is now official!
 
 ## PacmanRemixHLSM
 * December 2019
