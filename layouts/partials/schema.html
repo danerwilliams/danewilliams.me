@@ -26,13 +26,14 @@
 {{ end }}
 {
     "@context": "https://schema.org",
-    "@type": "Organization",
+    "@type": "Person",
     "name": {{ .Site.Params.header }},
     "url": {{ .Site.BaseURL }},
     "sameAs": [
     "https://linkedin.com/in/{{ .Site.Params.linkedin }}",
     "https://gitlab.com/{{ .Site.Params.gitlab }}",
-    "https://github.com/{{ .Site.Params.github }}"
+    "https://github.com/{{ .Site.Params.github }}",
+    "https://instagram.com/{{ .Site.Params.instagram }}"
     ]
 }
 </script>
