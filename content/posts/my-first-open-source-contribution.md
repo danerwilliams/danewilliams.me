@@ -1,15 +1,15 @@
-+++ 
-draft = true
-date = 2020-04-09T22:59:19-07:00
-title = "My first open source contribution! (dracula/tmux)"
-+++
+--- 
+date: 2020-04-09T22:59:19-07:00
+title: "My first open source contribution! (dracula/tmux)"
+author: "Dane Williams"
+---
 
 ## Introduction
 Recently I have begun using the awesome [dracula theme](https://draculatheme.com/) for most of my development tools. 
 Unfortunately, one of my favorite tools, [tmux](https://github.com/tmux/tmux/wiki) did not have a dracula theme (until now).
 
 ## Methodology
-A couple weeks ago, towards the beginning of corona virus quarantine here in the Bay Area, I decided to take it upon myself to develop a dracula theme extension for tmux.
+A couple weeks ago, towards the beginning of corona virus quarantine here in the Bay Area, I decided to take it upon myself to develop a dracula theme extension for tmux while I had a bit of extra time due to Notre Dame going online.
 Mostly I just wanted to have a tmux environment that would match my vim, vs code, slack, and terminal.app theme.
 Something else that was important to me in designing the theme though was to make sure that it would be entirely plug and play.
 My goal was to make it as easy as adding a line to your .tmux.conf and the rest would be handled by your plugin manager such as tpm.

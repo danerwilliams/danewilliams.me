@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on danewilliams.me</title>
+    <title>Posts on Dane Williams</title>
     <link>https://www.danewilliams.me/posts/</link>
-    <description>Recent content in Posts on danewilliams.me</description>
+    <description>Recent content in Posts on Dane Williams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 09 Apr 2020 22:59:19 -0700</lastBuildDate>
@@ -18,7 +18,7 @@
       
       <guid>https://www.danewilliams.me/posts/my-first-open-source-contribution/</guid>
       <description>Introduction Recently I have begun using the awesome dracula theme for most of my development tools. Unfortunately, one of my favorite tools, tmux did not have a dracula theme (until now).
-Methodology A couple weeks ago, towards the beginning of corona virus quarantine here in the Bay Area, I decided to take it upon myself to develop a dracula theme extension for tmux. Mostly I just wanted to have a tmux environment that would match my vim, vs code, slack, and terminal.</description>
+Methodology A couple weeks ago, towards the beginning of corona virus quarantine here in the Bay Area, I decided to take it upon myself to develop a dracula theme extension for tmux while I had a bit of extra time due to Notre Dame going online.</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@ Methodology A couple weeks ago, towards the beginning of corona virus quarantine
       <pubDate>Sun, 22 Mar 2020 00:52:09 -0700</pubDate>
       
       <guid>https://www.danewilliams.me/posts/initial-post/</guid>
-      <description>Welcome to my blog! I plan to use this site to share my projects and code with the world, and may occasionally speak to other interests of mine.</description>
+      <description>Welcome to my blog! I plan to use this site to share my projects and code with the world, and may occasionally speak to other interests of mine. I am currently a CS student at Notre Dame, and you can learn more about me by checking out my about page.</description>
     </item>
     
   </channel>

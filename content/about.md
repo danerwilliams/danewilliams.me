@@ -1,7 +1,8 @@
-+++
-title = "About Me"
-slug = "about"
-+++
+---
+title: "About Me"
+slug: "about"
+author: "Dane Williams"
+---
 
 I am an undergraduate [computer science](https://cse.nd.edu/) student at the [University of Notre Dame](https://www.nd.edu/) graduating in 2022. Outside of my studies I spend much of my time at the pool playing for the Notre Dame [men's water polo team](http://sites.nd.edu/waterpolo/). Originally, I am from the Bellevue/Eastside area of Seattle, where I attended [Eastside Catholic School](https://www.eastsidecatholic.org/) and graduated in 2018. I am also a proud alumni of the [Bellevue Club Swim Team](https://www.teamunify.com/team/onsbcst/page/home). Since leaving for college my family moved to the Bay Area so that is where I reside while on breaks. While at Notre Dame I live in [Fisher Hall](https://fisher.nd.edu/#/). 
 

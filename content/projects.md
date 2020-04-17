@@ -1,7 +1,8 @@
-+++
-title = "Projects"
-slug = "projects"
-+++
+---
+title: "Projects"
+slug: "projects"
+author: "Dane Williams"
+---
 
 # What I've Been Working On
 I will try to update this page as I complete new projects, however the most up to date location of all my projects is of course my [github](https://github.com/danerwilliams). I also have a [gitlab](https://gitlab.com/dwilli36), but so far I only have used this for my classes at Notre Dame that submit assignments through private gitlab repos. A list of my projects in reverse chronological order is below.
