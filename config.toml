@@ -11,23 +11,25 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-#disqusShortname = "yourdiscussshortname"
-
 #publish to docs directory for compatibility with github pages
 publishDir = "docs/"
 
 [params]
     author = "Dane Williams"
     info = "Computer Science Undergrad at Notre Dame"
-    description = "Dane Williams' Personal Website"
-    keywords = "developer,student,blog"
+    description = "Dane Williams Notre Dame Computer Science"
+    keywords = "dane, williams, notre, dame, notre dame, computer, science, water polo, dane williams, cs, seattle, bay area, south bend, bellevue, sammamish, symetra, at&t"
     avatarurl = "/images/DaneWilliamsHeadshot.jpg"
+    header = "Dane Williams"
+    linkedin = "danerwilliams"
+    github = "danerwilliams"
+    gitlab = "dwilli36"
 
 	#favicon_32 = "/img/favicon-32x32.png"
 	#favicon_16 = "/img/favicon-16x16.png"
 
-    hidecredits = true
-    hidecopyright = true
+    hidecredits = false
+    hidecopyright = false
 	since = 2020
 
     rtl = false
