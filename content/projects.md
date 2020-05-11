@@ -7,6 +7,15 @@ author: "Dane Williams"
 # What I've Been Working On
 I will try to update this page as I complete new projects, however the most up to date location of all my projects is of course my [github](https://github.com/danerwilliams). I also have a [gitlab](https://gitlab.com/dwilli36), but so far I only have used this for my classes at Notre Dame that submit assignments through private gitlab repos. A list of my projects in reverse chronological order is below.
 
+## Spidey Web Server
+* April 2020
+* Gitlab: [cse-20289-sp20-project](https://gitlab.com/dwilli36/cse-20289-sp20-project) (private repo)
+
+This was my final project for [systems programming](https://www3.nd.edu/~pbui/teaching/cse.20289.sp20) which I completed with my partner [Conor Murphy](https://github.com/cnrmrphy). 
+In general, the idea of this project was to build a simple http web server (like apache), using C. There is also a small part to this project called thor, which is a python script for testing the server in both single and forking mode by sending requests in parrallel. 
+We have the server running on port 9898 of an AWS ec2 virtual machine we spun up and can access at [aws.danewilliams.me:9898](http://aws.danewilliams.me:9898/). 
+Obviously it does not look particularly impressive from a web dev perspective as this is just an example file directory. However, the point of this project was to use low level processes in C to better understand how things like web dev project (like this website) are actually hosted on the internet. 
+
 ## danewilliams.me (this website!)
 * March 2020
 * Github: [danewilliams.me](https://github.com/danerwilliams/danewilliams.me)
