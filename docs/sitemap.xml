@@ -4,16 +4,26 @@
   
   <url>
     <loc>https://www.danewilliams.me/</loc>
-    <lastmod>2020-04-09T22:59:19-07:00</lastmod>
+    <lastmod>2020-05-08T00:52:09-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.danewilliams.me/posts/my-first-open-source-contribution/</loc>
-    <lastmod>2020-04-09T22:59:19-07:00</lastmod>
+    <loc>https://www.danewilliams.me/posts/having-fun-with-zig-lang/</loc>
+    <lastmod>2020-05-08T00:52:09-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.danewilliams.me/posts/</loc>
+    <lastmod>2020-05-08T00:52:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.danewilliams.me/posts/developing-an-http-web-server-in-c/</loc>
+    <lastmod>2020-05-03T00:52:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.danewilliams.me/posts/my-first-open-source-contribution/</loc>
     <lastmod>2020-04-09T22:59:19-07:00</lastmod>
   </url>
   

@@ -6,10 +6,30 @@
     <description>Recent content in Posts on Dane Williams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Apr 2020 22:59:19 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2020 00:52:09 -0700</lastBuildDate>
     
 	<atom:link href="https://www.danewilliams.me/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Having fun with zig lang</title>
+      <link>https://www.danewilliams.me/posts/having-fun-with-zig-lang/</link>
+      <pubDate>Fri, 08 May 2020 00:52:09 -0700</pubDate>
+      
+      <guid>https://www.danewilliams.me/posts/having-fun-with-zig-lang/</guid>
+      <description>Introduction Some fellow Notre Dame CS students made the awesome pbui-project, the POSIX-compliant BSD/Linux Userland Implementation, which is a userland implementation written entirely in zig. Out of curiosity for trying out zig I decided to make a small pull request implementing the pwd command.
+Thoughts on Zig Since I had next to no background knowledge on zig programming, there was a lot less time coding and a lot more time spent reading documentation.</description>
+    </item>
+    
+    <item>
+      <title>Initial Post</title>
+      <link>https://www.danewilliams.me/posts/developing-an-http-web-server-in-c/</link>
+      <pubDate>Sun, 03 May 2020 00:52:09 -0700</pubDate>
+      
+      <guid>https://www.danewilliams.me/posts/developing-an-http-web-server-in-c/</guid>
+      <description>Introduction As the final project for my systems programming class at Notre Dame my partner, Conor Murphy, and I developed a simple http web server server (similar to apache). We did this entirely in C, which was a great opportunity to learn about networking specific issues such as commication over sockets, as well as low level functions and system calls for memory allocation and file/directory manipulation.
+Development I&amp;rsquo;ll spare the details here but the development process for this was very reading heavy.</description>
+    </item>
     
     <item>
       <title>My first open source contribution! (dracula/tmux)</title>
