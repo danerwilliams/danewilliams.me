@@ -1,5 +1,5 @@
 ---
-title: "Initial Post"
+title: "Developing an http web server in C"
 date: 2020-05-03T00:52:09-07:00
 author: "Dane Williams"
 ---
