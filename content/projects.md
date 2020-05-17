@@ -7,6 +7,12 @@ author: "Dane Williams"
 # What I've Been Working On
 I will try to update this page as I complete new projects, however the most up to date location of all my projects is of course my [github](https://github.com/danerwilliams). I also have a [gitlab](https://gitlab.com/dwilli36), but so far I only have used this for my classes at Notre Dame that submit assignments through private gitlab repos. A list of my projects in reverse chronological order is below.
 
+## Pork Chop Chat Bot
+* May 2020
+* Github: [pork-chop](https://github.com/danerwilliams/pork-chop)
+
+Pork Chop is a chat bot I made which is capable of responding to specific commands such as a command for getting a stock price, as well as participation in conversation. The conversations are powered by [ChatterBot](https://github.com/gunthercox/ChatterBot) which is a conversational dialog engine that uses machine learning. My buddies and I trained the bot based on our imessage groupchat data which made things very entertaining. Pork Chop is fully modular so you can clone the repo and then train with your own data to deploy in a groupme chat of your own!
+
 ## Spidey Web Server
 * April 2020
 * Gitlab: [cse-20289-sp20-project](https://gitlab.com/dwilli36/cse-20289-sp20-project) (private repo)

@@ -6,10 +6,19 @@
     <description>Recent content on Dane Williams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 May 2020 00:52:09 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2020 00:52:09 -0700</lastBuildDate>
     
 	<atom:link href="https://www.danewilliams.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building an AI chatbot</title>
+      <link>https://www.danewilliams.me/posts/building-an-ai-chat-bot/</link>
+      <pubDate>Sun, 17 May 2020 00:52:09 -0700</pubDate>
+      
+      <guid>https://www.danewilliams.me/posts/building-an-ai-chat-bot/</guid>
+      <description>Introduction In the Notre Dame CSE slack we have a bot named bobbit which performs many commands providing a lot of entertainment and functionality. I decided that it could be fun to build my own bot for use in my water polo team groupme so that we could easily get information about tournament schedules, pool time openings, etc. This led me down a rabbit hole of python bots where I eventually discovered ChatterBot, a machine learning conversational dialog engine for chatbots.</description>
+    </item>
     
     <item>
       <title>Having fun with zig lang</title>

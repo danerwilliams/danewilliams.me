@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.danewilliams.me/</loc>
-    <lastmod>2020-05-08T00:52:09-07:00</lastmod>
+    <loc>https://www.danewilliams.me/posts/building-an-ai-chat-bot/</loc>
+    <lastmod>2020-05-17T00:52:09-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.danewilliams.me/posts/having-fun-with-zig-lang/</loc>
-    <lastmod>2020-05-08T00:52:09-07:00</lastmod>
+    <loc>https://www.danewilliams.me/</loc>
+    <lastmod>2020-05-17T00:52:09-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.danewilliams.me/posts/</loc>
+    <lastmod>2020-05-17T00:52:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.danewilliams.me/posts/having-fun-with-zig-lang/</loc>
     <lastmod>2020-05-08T00:52:09-07:00</lastmod>
   </url>
   
