@@ -24,7 +24,7 @@ I am an undergraduate [computer science](https://cse.nd.edu/) student at the [Un
 Outside of my primary interests in technology and sports, I do have other interests to fill the remainder of my time.
 * Reddit: A few of the subreddits that I follow below.
 	- [r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/)
-	- [r/IAmA](https://www.reddit.com/r/IAmA/)
+	- [r/wallstreetbets](https://www.reddit.com/r/wallstreetbets/)
 	- [r/tifu](https://www.reddit.com/r/tifu/)
-	- [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/)
+	- [r/seahawks](https://www.reddit.com/r/Seahawks/)
 * Stocks: While I try not to pay too much attention to the ups and downs of the market, I love keeping tabs on my shares of [$TSLA](https://www.google.com/search?tbm=fin&sxsrf=ALeKk03Pp1HW2qMpSEtBF9DZI1G1dQpUKg:1584860736269&q=NASDAQ:+TSLA&stick=H4sIAAAAAAAAAONgecRoyi3w8sc9YSmdSWtOXmNU4-IKzsgvd80rySypFJLgYoOy-KR4uLj0c_UNkrMzCnMqeBax8vg5Brs4BlophAT7OAIAxPKUqEkAAAA&biw=1440&bih=821#scso=_VQ53Xr6HBIG6-gSO_4i4AQ1:0).
