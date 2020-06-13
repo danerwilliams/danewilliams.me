@@ -27,4 +27,4 @@ Outside of my primary interests in technology and sports, I do have other intere
 	- [r/wallstreetbets](https://www.reddit.com/r/wallstreetbets/)
 	- [r/tifu](https://www.reddit.com/r/tifu/)
 	- [r/seahawks](https://www.reddit.com/r/Seahawks/)
-* Stocks: While I try not to pay too much attention to the ups and downs of the market, I love keeping tabs on my shares of [$TSLA](https://www.google.com/search?tbm=fin&sxsrf=ALeKk03Pp1HW2qMpSEtBF9DZI1G1dQpUKg:1584860736269&q=NASDAQ:+TSLA&stick=H4sIAAAAAAAAAONgecRoyi3w8sc9YSmdSWtOXmNU4-IKzsgvd80rySypFJLgYoOy-KR4uLj0c_UNkrMzCnMqeBax8vg5Brs4BlophAT7OAIAxPKUqEkAAAA&biw=1440&bih=821#scso=_VQ53Xr6HBIG6-gSO_4i4AQ1:0).
+* Stocks: While I try not to pay too much attention to the ups and downs of the market, I ~~love keeping tabs on~~ enjoy reinvesting the profits I made after selling my shares of [$TSLA](https://www.google.com/search?q=%24tsla).
