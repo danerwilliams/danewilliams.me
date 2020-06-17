@@ -65,7 +65,7 @@ publishDir = "docs/"
 	name = "Resume"
 	icon = "far fa-file-alt"
 	weight = 4
-	url = "https://github.com/danerwilliams/resume/blob/master/DaneWilliamsResume.pdf"
+	url = "https://danerwilliams.github.io/resume/DaneWilliamsResume.pdf"
 
 # Menu links
 [[menu.main]]
