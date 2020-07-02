@@ -103,7 +103,7 @@
     <link rel="icon" type="image/png" href="https://www.danewilliams.me/images/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="https://www.danewilliams.me/images/favicon-16x16.png" sizes="16x16">
 
-    <meta name="generator" content="Hugo 0.68.3" />
+    <meta name="generator" content="Hugo 0.73.0" />
   </head>
 
   
@@ -184,7 +184,7 @@ Getting this data is simpler than you&rsquo;d think.
 Simply navigate to /Users/yourUsernameHere/Library/Messages/chat.db where there is a sql database file containing all of the imessages currently on your mac.
 From here we isolated the message data from the specific conversation we wanted to pull data from and exported the messages to a single column in a csv.
 We found that preprocessing the data was very useful for training Pork Chop especially because with a group chat people&rsquo;s thoughts are pretty scattered which can make things difficult for the ChatterBot algorithm to work with effectively.
-The biggest thing for us was eliminating the reacts i.e. &lsquo;laughed at &ldquo;a previous message&rdquo;', which we simply filtered out by using grep and some regex.</p>
+The biggest thing for us was eliminating the reacts i.e. &lsquo;laughed at &ldquo;a previous message&rdquo;&rsquo;, which we simply filtered out by using grep and some regex.</p>
 <h2 id="using-chatterbot">Using ChatterBot</h2>
 <p>Chatterbot make training and using your chat bot super simple.
 All we had to do was write a function to turn our csv data in to a list, and then use ChatterBot&rsquo;s list trainer method which will train based on the data and export the neural network in a .sqlite3 file.
