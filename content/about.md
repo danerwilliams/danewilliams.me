@@ -27,7 +27,7 @@ I am an undergraduate [computer science](https://cse.nd.edu/) student at the [Un
 Some books I have read or am reading and liked a lot (certainly not an extensive list).
 * Into Thin Air, Jon Krakauer
 * A Mind For Numbers, Barbara Oakley
-* How to Win Friends and Influence People, Dale Carnegie
+* Gold in The Water, P.H. Mullen
 * The Other Wes Moore, Wes Moore
 * The Boys in the Boat, Daniel James Brown
 
