@@ -30,11 +30,3 @@ Some books I have read or am reading and liked a lot (certainly not an extensive
 * Gold in The Water, P.H. Mullen
 * The Other Wes Moore, Wes Moore
 * The Boys in the Boat, Daniel James Brown
-
-#### Other
-Outside of my primary interests in technology and sports, I do have other interests to fill the remainder of my time.
-* Reddit: A few of the subreddits that I follow below.
-	- [r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/)
-	- [r/tifu](https://www.reddit.com/r/tifu/)
-	- [r/seahawks](https://www.reddit.com/r/Seahawks/)
-* Stocks: While I try not to pay too much attention to the ups and downs of the market, I ~~love keeping tabs on~~ *enjoy reinvesting the profits I made after selling* my shares of [$TSLA](https://www.google.com/search?q=%24tsla).
