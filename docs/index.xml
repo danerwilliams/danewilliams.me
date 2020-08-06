@@ -6,10 +6,20 @@
     <description>Recent content on Dane Williams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 May 2020 00:52:09 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2020 00:52:09 -0700</lastBuildDate>
     
 	<atom:link href="https://www.danewilliams.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo tutorial for total beginners</title>
+      <link>https://www.danewilliams.me/posts/hugo-tutorial/</link>
+      <pubDate>Wed, 05 Aug 2020 00:52:09 -0700</pubDate>
+      
+      <guid>https://www.danewilliams.me/posts/hugo-tutorial/</guid>
+      <description>Hugo Website Tutorial Recently my younger brother who is in high school and is beginning to learn more about programming expressed interest in building his own portfolio site, similar to this one. I figured I would help him out by making a tutorial for complete beginners.
+This is an all inclusive tutorial on how to make a static personal site using the Hugo framework. Experience with command line, git, markdown, etc.</description>
+    </item>
     
     <item>
       <title>Building an AI chatbot</title>

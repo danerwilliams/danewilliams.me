@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    
+    <script type="application/ld+json">
+
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Hugo tutorial for total beginners",
+    "image": "https://www.danewilliams.me",
+    "datePublished": "2020-08-05T00:52:09-07:00",
+    "dateModified": "2020-08-05T00:52:09-07:00",
+    "author": {
+    "@type": "Person",
+    "name": "Dane Williams"
+    },
+    "mainEntityOfPage": { "@type": "WebPage" },
+    "publisher": {
+    "@type": "Organization",
+    "name": "Dane Williams",
+    "logo": {
+        "@type": "ImageObject",
+        "url":  null 
+    }
+    },
+    "description": "Hugo Website Tutorial Recently my younger brother who is in high school and is beginning to learn more about programming expressed interest in building his own portfolio site, similar to this one. I figured I would help him out by making a tutorial for complete beginners.\nThis is an all inclusive tutorial on how to make a static personal site using the Hugo framework. Experience with command line, git, markdown, etc.",
+    "keywords": []
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Dane Williams",
+    "url": "https://www.danewilliams.me",
+    "sameAs": [
+    "https://linkedin.com/in/danerwilliams",
+    "https://gitlab.com/dwilli36",
+    "https://github.com/danerwilliams",
+    "https://instagram.com/wane_dilliams"
+    ]
+}
+</script>
+
+    
+    <meta name="author" content="Dane Williams">
+    <meta name="description" content="Dane Williams Notre Dame Computer Science">
+    <meta name="keywords" content="dane williams, notre, dame, notre dame, water polo, cs, seattle, bay area, bellevue, sammamish, symetra, at&amp;t">
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Hugo tutorial for total beginners"/>
+<meta name="twitter:description" content="Hugo Website Tutorial Recently my younger brother who is in high school and is beginning to learn more about programming expressed interest in building his own portfolio site, similar to this one. I figured I would help him out by making a tutorial for complete beginners.
+This is an all inclusive tutorial on how to make a static personal site using the Hugo framework. Experience with command line, git, markdown, etc."/>
+
+    <meta property="og:title" content="Hugo tutorial for total beginners" />
+<meta property="og:description" content="Hugo Website Tutorial Recently my younger brother who is in high school and is beginning to learn more about programming expressed interest in building his own portfolio site, similar to this one. I figured I would help him out by making a tutorial for complete beginners.
+This is an all inclusive tutorial on how to make a static personal site using the Hugo framework. Experience with command line, git, markdown, etc." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.danewilliams.me/posts/hugo-tutorial/" />
+<meta property="article:published_time" content="2020-08-05T00:52:09-07:00" />
+<meta property="article:modified_time" content="2020-08-05T00:52:09-07:00" />
+
+
+    
+      <base href="https://www.danewilliams.me/posts/hugo-tutorial/">
+    
+    <title>
+  Hugo tutorial for total beginners · Dane Williams
+</title>
+
+    
+      <link rel="canonical" href="https://www.danewilliams.me/posts/hugo-tutorial/">
+    
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+
+    
+      
+      
+      <link rel="stylesheet" href="https://www.danewilliams.me/css/coder.min.a4f332213a21ce8eb521670c614470c58923aaaf385e2a73982c31dd7642decb.css" integrity="sha256-pPMyITohzo61IWcMYURwxYkjqq84XipzmCwx3XZC3ss=" crossorigin="anonymous" media="screen" />
+    
+
+    
+
+    
+      
+        
+        
+        <link rel="stylesheet" href="https://www.danewilliams.me/css/coder-dark.min.83a2010dac9f59f943b3004cd6c4f230507ad036da635d3621401d42ec4e2835.css" integrity="sha256-g6IBDayfWflDswBM1sTyMFB60DbaY102IUAdQuxOKDU=" crossorigin="anonymous" media="screen" />
+      
+    
+
+    
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="https://www.danewilliams.me/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://www.danewilliams.me/images/favicon-16x16.png" sizes="16x16">
+
+    <meta name="generator" content="Hugo 0.73.0" />
+  </head>
+
+  
+  
+    
+  
+  <body class="colorscheme-dark">
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="https://www.danewilliams.me/">
+      Dane Williams
+    </a>
+    
+    <input type="checkbox" id="menu-toggle" />
+    <label class="menu-button float-right" for="menu-toggle"><i class="fas fa-bars"></i></label>
+    <ul class="navigation-list">
+      
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="https://www.danewilliams.me/about/">About</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="https://www.danewilliams.me/posts/">Blog</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="https://www.danewilliams.me/projects/">Projects</a>
+          </li>
+        
+      
+      
+    </ul>
+    
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">Hugo tutorial for total beginners</h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fas fa-calendar"></i>
+              <time datetime='2020-08-05T00:52:09-07:00'>
+                August 5, 2020
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fas fa-clock"></i>
+              12-minute read
+            </span>
+          </div>
+          
+          
+        </div>
+      </header>
+
+      <div>
+        
+        <h1 id="hugo-website-tutorial">Hugo Website Tutorial</h1>
+<p>Recently my younger brother who is in high school and is beginning to learn more about programming expressed interest in building his own portfolio site, similar to this one. I figured I would help him out by making a tutorial for complete beginners.</p>
+<p>This is an all inclusive tutorial on how to make a static personal site using the <a href="https://gohugo.io/">Hugo</a> framework. Experience with command line, git, markdown, etc. isn&rsquo;t needed, all the basics will be covered.</p>
+<h2 id="what-is-hugo">What is hugo?</h2>
+<p>Hugo is a static site framework / generator.</p>
+<p>What is a static site? <br>
+A static site is a site like this one, where once it is loaded, the information doesn&rsquo;t change. Static sites differ from dynamic sites which have new information loaded to them, usually from a database, and are significantly more complex.</p>
+<p>What is a framework / generator?<br>
+A framework is a tool that allows you to utilize existing programming languages in a more simple way, in order to achieve a common use case. In this case that use case is to build a static website. Hugo is more specifically a static site generator, because it actually take information from a set of files you feed it, and then creates all of the HTML/CSS code necessary for the static website.</p>
+<h2 id="prereqs-git-command-line-and-markdown">Prereqs: Git, Command Line, and Markdown</h2>
+<p>In order to use the hugo framework, you will need to know some very basic git and command line. It may seem a bit overwhelming, but go slow and over time with practice it will feel super natural. This honestly might be the hardest part of the whole tutorial if you are totally new.</p>
+<h4 id="command-line-basics">Command Line Basics</h4>
+<p>The command line is another way of interfacing with your computer. On Mac, this is the app called terminal. Mac and Linux systems have a very similar terminals because Linux is just an open source version of <a href="https://en.wikipedia.org/wiki/Unix">Unix</a>, the operating system invented by <a href="https://en.wikipedia.org/wiki/Bell_Labs">Bell Labs</a> which changed computing forever and is still in use today, most notably in Mac systems.
+Unfourtunately, if you run <a href="https://www.microsoft.com/en-us/windows">Winblows</a>, then you have a <a href="https://en.wikipedia.org/wiki/MS-DOS">MS-DOS</a> based system, and the command line interface is significantly different, and much less powerful. This is why most developers either use Mac or Linux computers. You can still use Hugo with Windows, and the best way to do this is with <a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">Windows Subsystem Linux</a>. WSL is essentially Linux terminal as an app on your Windows machine, enabling you to do the rest of the tutorial.</p>
+<p>To get started, open up the terminal on your Mac. There are a few very basic command you should know. These commands simply allow you to browse the file system of your computer with typed out commands, rather than using a graphic user interface like in the finder app. You can run any command by simply typing it and then pressing enter.</p>
+<ul>
+<li><code>ls</code> - Lists everything in your current directory (folder)</li>
+<li><code>cd path/to/directory</code> - Change directory
+<ul>
+<li>cd on it&rsquo;s own will take you to your home directory</li>
+<li>the home directory can also be referenced with ~</li>
+<li>An example command you might run would be <code>cd ~/Documents</code>, which would simply take you to your documents folder</li>
+<li>.. references the parent directory</li>
+<li>. references the current directory</li>
+<li>- references the most recent directory you visited</li>
+</ul>
+</li>
+<li><code>mkdir myDirectory</code> - make a new directory</li>
+<li><code>touch myFile.file</code> - make a new file</li>
+</ul>
+<p>And that&rsquo;s it! With those three commands, you should be able to navigate through your computers file system, and make new files and directories using the command line.</p>
+<h4 id="git-basics">Git Basics</h4>
+<p>Git is a command line tool created by <a href="https://en.wikipedia.org/wiki/Linus_Torvalds">Linus Torvalds</a>, who also famously created Linux. Git was actually created in order to help make contributing to Linux easier and more efficient!</p>
+<p>There are many different aspects to git, but for now lets just stick to the basics. Git allows us to manage versions of a software project. Essentially what it allows you to do is create &ldquo;commits&rdquo; which effectively save your project at a certain point in time. The other big part to git is branching, but we won&rsquo;t cover that. You may have heard of <a href="https://github.com/">GitHub</a> which is a popular website for people to share their code online. GitHub is simply store git repositories in the cloud so that other people can access and contribute to the projects.</p>
+<p>Let&rsquo;s go ahead and make a repository on GitHub to use for this project. If you haven&rsquo;t made a GitHub account already, go ahead and do that.</p>
+<ul>
+<li>Log in to GitHub (feel free to follow me @danerwilliams)</li>
+<li>Click the plus symbol in the upper right hand corner, then click new repository</li>
+<li>Give your project a name (i.e. &ldquo;my-website&rdquo;)</li>
+<li>Check &ldquo;Initialize this repository with a README&rdquo;</li>
+<li>Click &ldquo;create repository&rdquo;</li>
+</ul>
+<p>Now that you have the repository created, you need to put it on your local computer.</p>
+<ul>
+<li>Fire up the terminal, and navigate to whichever folder you wish to have a local copy of this project (this is totally up to you, I choose to organize my git repos in a GitRepos folder inside of my Documents directory)</li>
+<li>Back on GitHub, find the green button that says &ldquo;Code&rdquo; on it, and click it, this should give you a link that you can copy. Make sure you are using https link and not ssh link, we don&rsquo;t want to bother with the extra set up required for ssh</li>
+<li>On a mac, git is already installed, on Linux/WSL, you may need to install it (you can find how to do this with a quick google search)</li>
+<li>Now run the command <code>git clone https://github.com/my_github_username/my-website.git</code> using the link you copied</li>
+<li>There should be a directory which is a local copy of that git repo now on your computer. It should only contain a file README.md</li>
+<li>Open that file called README.md with your text editor of choice, if you don&rsquo;t know what to use, I highly recommend downloading <a href="https://code.visualstudio.com/">VS Code</a></li>
+<li>Type whatever you want in the file, such as &ldquo;hello, world&rdquo;. This is markdown file which will be displayed when people view the repository on github</li>
+<li>Now that we&rsquo;ve made some changes, it&rsquo;s time to store these changes as a commit, and then push the new commit to github.</li>
+<li><code>git add .</code> - Remember that . means the current directory? This will stage / add everything in the current directory to git, so they are ready to be committed</li>
+<li><code>git commit -m &quot;my message&quot;</code> - This commits the changes and specifies your commit message with the -m flag. A good commit message very concisely describes the changes in less than a sentence</li>
+<li><code>git push</code> - This pushes the changes to github. Go ahead and refresh the github repo and you should see that your changes are now there!</li>
+</ul>
+<p>Those three commands are all you need to know to start working with git, congrats!</p>
+<h4 id="markdown-basics">Markdown Basics</h4>
+<p>Markdown is simply a language for styling our writing. Hugo sites generate content through markdown files, in fact, the page you are viewing right now was generated from a markdown file. Since README.md is also a markdown, we will practice a little more with that file before finally building the website.</p>
+<p>Headers:
+You can create different sized headers using the #, more #&rsquo;s equals a smaller header, with a single # being the biggest.</p>
+<p>Bold and Italics:
+You can denote text as bold or italic by wrapping them in **Bold** or *Italics*</p>
+<p>New Line:<br>
+Indicate a new line by adding two spaces to the end of your line, otherwise the next line will just run on with the previous one when it is compiled.</p>
+<p>There are many, many more things you can do to style your text with markdown, such as tables and code blocks, but I will simply point you to this <a href="https://www.markdowntutorial.com/lesson/1/">tutorial</a> instead if you are interested in learning more.</p>
+<p>Try making some changes to your README.md and then using git add, commit, and push to send the changes to github and see how they turn out!</p>
+<h2 id="building-your-hugo-site">Building Your Hugo Site</h2>
+<p>Now that you have those prereqs figured out, there actually isn&rsquo;t much left to learn. The beauty of hugo is that it allows you to create a site from a template, you actually don&rsquo;t need to know how to code in html and css, you simply need to be comfortable using the command line and know how to use markdown (don&rsquo;t worry, we&rsquo;ll cover this).</p>
+<h4 id="choose-a-theme">Choose a Theme</h4>
+<p>The first step is simply to choose a theme you want to use. You can view a list of themes <a href="https://themes.gohugo.io/">here</a>. The theme I use is called <a href="https://themes.gohugo.io/hugo-coder/">coder</a>, and then I added some modifications to it such as the particles background as I am familiar with html, css, and javascript. We will not worry about modifications.</p>
+<h4 id="installing-hugo">Installing Hugo</h4>
+<p>Now you need to install hugo as a program on your computer. This will be done using a package manager. On mac, the most popular package manager is <a href="https://brew.sh/">homebrew</a>, on Linux this will depend on your distro but if you are on <a href="https://ubuntu.com/">Ubuntu</a> then it would be <a href="https://help.ubuntu.com/community/AptGet/Howto">apt-get</a> for example.</p>
+<p>To install homebrew, simple run the following command:
+<code>/bin/bash -c &quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)&quot;</code></p>
+<p>Now that you have homebrew, you can install packages with the command <code>brew install my-package</code>.
+Install hugo with <code>brew install hugo</code><br>
+Whenever you install a new package, it&rsquo;s a good idea to verify it install properly by checking the version. For hugo you can do this with <code>hugo version</code>.</p>
+<h4 id="create-hugo-site">Create Hugo Site</h4>
+<ul>
+<li>Navigate to the git repo we had previously made, and run the command <code>hugo new site --force .</code> which will make a new hugo site in that folder! We need the &ndash;force flag to allow it to make a site in a folder that already exists. Run <code>ls</code> and see all of the new files hugo automatically created for us.</li>
+<li>Remember the theme you chose? Click the homepage button of that theme to get to it&rsquo;s github repo, and then copy the https clone link. Now navigate to the themes directory which was automatically created and run the command <code>git submodule add https://github.com/theme-org/the-theme-i-chose.git</code> which will basically make a git repo inside of your git repo containing all of the theme&rsquo;s code.</li>
+<li>There is now a new directory inside of the themes directory containing that code, go in to it with cd, then run ls to see what&rsquo;s inside.</li>
+<li>There should be a folder with a name like &ldquo;exampleSite&rdquo;, enter that folder and then open the file called config.toml with your text editor.</li>
+<li>Replace the config.toml file in the root directory of your project with the config.toml in that example site folder.</li>
+<li>IMPORTANT: make one change to the config.toml once you have copied it over, add the line <code>publishDir = &quot;docs/&quot;</code> at the top of the file. This will be important for hosting the site on GitHub.</li>
+<li>There will probably be some other folders in the example site such as &ldquo;content&rdquo; or &ldquo;static&rdquo;, once again, replace those folders or files in your root directory with the ones from the example. You could do this on command line with cp, mv, and rm commands but it is probably easier for a beginner to just do this in the GUI like with finder.</li>
+<li>Once you have all of the example site information copied over, you have a very good starting point.</li>
+<li>You can now compile the site with the command <code>hugo -D</code> which will generate a website in the docs directory based on your config and content files!</li>
+<li>Run the command <code>hugo server</code> from the root directory of the project and then you can go to <code>http://localhost:1313/</code> to see the site on your local computer.</li>
+<li>Read through the contents of the config.toml file and take a look at some of the parameters, you&rsquo;ll likely want to customize many of them to make the site look how you want it to and give it correct information.</li>
+<li>To change the contents of the website, such as what the actual webpages look like, you will want to edit the markdown files in the content directory.</li>
+<li>Most other things such as images are contained in the static directory.</li>
+<li>Whenever you make changes to the content of your site, you need to recompile it for those changes to take effect using <code>hugo -D</code></li>
+</ul>
+<p>Now that you have a basic template of a website, you should do git add, commit, and push again to save your changes to github.</p>
+<h2 id="deploying-your-site">Deploying Your Site</h2>
+<p>Now it is time to let the whole world be able to see your website! We are going to use an awesome service called <a href="https://pages.github.com/">Github Pages</a> to host the site for free!</p>
+<ul>
+<li>On your repository page, click settings</li>
+<li>Scroll down until you see Github Pages</li>
+<li>Choose the master branch, and then choose the docs folder and click save</li>
+<li>The site which you build in to the docs folder and then pushed to github should now be publish at a url like username.github.io/mysite, the url should be pointed out by github in a little green box on the github pages portion of settings once it is published.</li>
+</ul>
+<h4 id="adding-a-custom-domain-name">Adding a Custom Domain Name</h4>
+<ul>
+<li>You may have noticed that my site is the domain danewilliams.me, with just a few extra steps you can do this too.</li>
+<li>First, purchase a domain from <a href="https://domains.google/">google domains</a>.</li>
+<li>Go to my domains, click DNS on the left side bar, scroll all the way down</li>
+<li>You now want to add two types of records:
+<ul>
+<li>name: www, type: CNAME, TTL: 1H (this is default so leave it blank), data (IPv4 address): username.github.io</li>
+<li>Then create 4 of the following type of record:</li>
+<li>name: @, type: A, TTL: 1H, data: 185.199.108.153</li>
+<li>as well as the same record but for 185.199.109.153, 185.199.110.153, and 185.199.111.153</li>
+</ul>
+</li>
+<li>Go back to the github pages settings on the repo and enter in the custom domain box <code>www.mydomain.com</code> and click save</li>
+<li>This may take a day to go in to affect because of the speed at which DNS updates, but for me it was only a few minutes. I had to trouble shoot this a lot so don&rsquo;t be too surprised if there are some issues at first.</li>
+</ul>
+<h2 id="all-done">All Done!</h2>
+<p>Now you should have your own personal website made with the hugo framework! Remember that you customize the site&rsquo;s content by editing the markdown files, and the best way to learn things with hugo is by snooping around the example site from your theme or by researching online at gohugo.io</p>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+      </div>
+
+      <footer class="footer">
+  <section class="container">
+    
+    
+      
+        © 2020
+      
+       Dane Williams 
+    
+    
+       · 
+      Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+    
+    
+  </section>
+</footer>
+
+    </main>
+
+    
+
+    
+
+  </body>
+
+</html>
