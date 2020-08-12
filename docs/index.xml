@@ -6,10 +6,20 @@
     <description>Recent content on Dane Williams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Aug 2020 00:52:09 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2020 00:52:09 -0700</lastBuildDate>
     
 	<atom:link href="https://www.danewilliams.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Invited to Google FooBar!</title>
+      <link>https://www.danewilliams.me/posts/google-foobar/</link>
+      <pubDate>Wed, 12 Aug 2020 00:52:09 -0700</pubDate>
+      
+      <guid>https://www.danewilliams.me/posts/google-foobar/</guid>
+      <description>Discovery Recently I was looking up some java documentation as I have not worked with the language since my AP CS class sophomore year of high school, and ended up coming across an exciting surprise!
+Intrigued, I proceeded by clicking the button &amp;ldquo;I want to play&amp;rdquo;, and discovered the Google FooBar challenge! Clicking the button led me to a terminal in the browser with some instructions, which allows for your to request different coding challenges which can be solved in python 2 (no python 3 :/ ) or in java.</description>
+    </item>
     
     <item>
       <title>Hugo tutorial for total beginners</title>

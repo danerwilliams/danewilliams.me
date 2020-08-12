@@ -4,16 +4,21 @@
   
   <url>
     <loc>https://www.danewilliams.me/</loc>
-    <lastmod>2020-08-05T00:52:09-07:00</lastmod>
+    <lastmod>2020-08-12T00:52:09-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.danewilliams.me/posts/hugo-tutorial/</loc>
-    <lastmod>2020-08-05T00:52:09-07:00</lastmod>
+    <loc>https://www.danewilliams.me/posts/google-foobar/</loc>
+    <lastmod>2020-08-12T00:52:09-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.danewilliams.me/posts/</loc>
+    <lastmod>2020-08-12T00:52:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.danewilliams.me/posts/hugo-tutorial/</loc>
     <lastmod>2020-08-05T00:52:09-07:00</lastmod>
   </url>
   
