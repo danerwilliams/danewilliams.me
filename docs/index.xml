@@ -6,10 +6,19 @@
     <description>Recent content on Dane Williams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2020 00:52:09 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 23 Dec 2020 00:52:09 -0700</lastBuildDate>
     
 	<atom:link href="https://www.danewilliams.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building a pastebin and url shortener with serverless AWS</title>
+      <link>https://www.danewilliams.me/posts/pastebin-with-serverless-aws/</link>
+      <pubDate>Wed, 23 Dec 2020 00:52:09 -0700</pubDate>
+      
+      <guid>https://www.danewilliams.me/posts/pastebin-with-serverless-aws/</guid>
+      <description>Overview I recently set out to build an application with serverless AWS that would visualize imessage chat data in d3. After some digging and learning more about AWS I figured out that my idea wasn&amp;rsquo;t really viable with the exact vision that I had. Not wanting to let the work I put in go to waste, I pivoted to making a pastebin and url shortener instead. I build it in Python using the Chalice framework, to develop serverless Lambda function, S3 buckets, and API Gateway that make up the backend of the pastebin.</description>
+    </item>
     
     <item>
       <title>Invited to Google FooBar!</title>

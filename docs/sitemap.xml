@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.danewilliams.me/</loc>
-    <lastmod>2020-08-12T00:52:09-07:00</lastmod>
+    <loc>https://www.danewilliams.me/posts/pastebin-with-serverless-aws/</loc>
+    <lastmod>2020-12-23T00:52:09-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.danewilliams.me/posts/google-foobar/</loc>
-    <lastmod>2020-08-12T00:52:09-07:00</lastmod>
+    <loc>https://www.danewilliams.me/</loc>
+    <lastmod>2020-12-23T00:52:09-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.danewilliams.me/posts/</loc>
+    <lastmod>2020-12-23T00:52:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.danewilliams.me/posts/google-foobar/</loc>
     <lastmod>2020-08-12T00:52:09-07:00</lastmod>
   </url>
   
