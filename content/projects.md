@@ -13,6 +13,7 @@ I will try to update this page as I complete new projects, however the most up t
 
 This is a pastebin and url shortener I built in order to learn some serverless AWS. 
 I use Lambda, API Gateway, S3 and the Chalice framework. 
+There is a client available publically at [pstb.in](http://pstb.in).
 
 ## B Minor Compiler
 * November 2020
