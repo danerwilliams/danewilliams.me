@@ -7,6 +7,21 @@ author: "Dane Williams"
 # What I've Been Working On
 I will try to update this page as I complete new projects, however the most up to date location of all my projects is of course my [github](https://github.com/danerwilliams). I also have a [gitlab](https://gitlab.com/dwilli36), but so far I only have used this for my classes at Notre Dame that submit assignments through private gitlab repos. A list of my projects in reverse chronological order is below.
 
+## pstb.in
+* December 2020
+* Github: [pstb.in](https://github.com/danerwilliams/pstb.in)
+
+This is a pastebin and url shortener I built in order to learn some serverless AWS. 
+I use Lambda, API Gateway, S3 and the Chalice framework. 
+
+## B Minor Compiler
+* November 2020
+* Github: (private repo)
+
+This is a semester long project I worked on in my [Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/) class with [Professor Thain](https://www3.nd.edu/~dthain/). 
+In the class I built a 4 stage compiler consisting of a scanner, parser, pretty printer, and type checker for the B Minor programming language, a C like language specification made specifically for the class. 
+The compiler was built in C and also utilizes [Flex](https://github.com/westes/flex) and [Bison](https://github.com/akimd/bison).
+
 ## Pork Chop Chat Bot
 * May 2020
 * Github: [pork-chop](https://github.com/danerwilliams/pork-chop)
@@ -15,7 +30,7 @@ Pork Chop is a chat bot I made which is capable of responding to specific comman
 
 ## Spidey Web Server
 * April 2020
-* Gitlab: [cse-20289-sp20-project](https://gitlab.com/dwilli36/cse-20289-sp20-project) (private repo)
+* Gitlab: (private repo)
 
 This was my final project for [systems programming](https://www3.nd.edu/~pbui/teaching/cse.20289.sp20) which I completed with my partner [Conor Murphy](https://github.com/cnrmrphy). 
 In general, the idea of this project was to build a simple http web server (like apache), using C. There is also a small part to this project called thor, which is a python script for testing the server in both single and forking mode by sending requests in parrallel. 
