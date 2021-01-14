@@ -9,6 +9,7 @@ I will try to update this page as I complete new projects, however the most up t
 
 ## pstb.in
 * December 2020
+* Blog: [danewilliams.me/posts/pastebin-with-serverless-aws](https://www.danewilliams.me/posts/pastebin-with-serverless-aws/)
 * Github: [pstb.in](https://github.com/danerwilliams/pstb.in)
 
 This is a pastebin and url shortener I built in order to learn some serverless AWS. 
@@ -25,12 +26,14 @@ The compiler was built in C and also utilizes [Flex](https://github.com/westes/f
 
 ## Pork Chop Chat Bot
 * May 2020
+* Blog: [danewilliams.me/posts/building-an-ai-chat-bot](https://www.danewilliams.me/posts/building-an-ai-chat-bot/)
 * Github: [pork-chop](https://github.com/danerwilliams/pork-chop)
 
 Pork Chop is a chat bot I made which is capable of responding to specific commands such as a command for getting a stock price, as well as participation in conversation. The conversations are powered by [ChatterBot](https://github.com/gunthercox/ChatterBot) which is a conversational dialog engine that uses machine learning. My buddies and I trained the bot based on our imessage groupchat data which made things very entertaining. Pork Chop is fully modular so you can clone the repo and then train with your own data to deploy in a groupme chat of your own!
 
 ## Spidey Web Server
 * April 2020
+* Blog: [danewilliams.me/posts/developing-an-http-web-server-in-c](https://www.danewilliams.me/posts/developing-an-http-web-server-in-c/)
 * Gitlab: (private repo)
 
 This was my final project for [systems programming](https://www3.nd.edu/~pbui/teaching/cse.20289.sp20) which I completed with my partner [Conor Murphy](https://github.com/cnrmrphy). 
@@ -40,12 +43,14 @@ Obviously it does not look particularly impressive from a web dev perspective as
 
 ## danewilliams.me (this website!)
 * March 2020
+* Blog: [danewilliams.me/posts/hugo-tutorial](https://www.danewilliams.me/posts/hugo-tutorial/)
 * Github: [danewilliams.me](https://github.com/danerwilliams/danewilliams.me)
 
 I made this website with [hugo](https://gohugo.io/) and hosted it with [github pages](https://pages.github.com/). I highly recommend both hugo and github pages as setting this all up was stupid fast and simple.
 
 ## tmux-dracula
 * March 2020
+* Blog: [danewilliams.me/posts/my-first-open-source-contribution](https://www.danewilliams.me/posts/my-first-open-source-contribution/)
 * Github: [dracula/tmux](https://github.com/dracula/tmux)
 
 I am a huge fan of the [dracula theme](https://draculatheme.com/) and use it for vim, terminal.app, slack, and vs code. The only thing missing for me to have an all dracula set up was a theme for tmux. There are some floating around github, but most of them use powerline which I was not really interested in and I found my self unsatisfied with the options that already existed. With the extra time I had while classes are online due to COVID-19, I took it upon myself to make an all in one, plug and play tmux extension folowing the dracula color scheme! I built the extension with bash scripts that gather the information I desired to be in the status bar. I have a script for gathering the current network SSID and another script for the battery percentage and charging status which are pretty much simple Unix pipelines. Additionally, there is a script for fetching the current location from an api, and then using that information to scrape the current weather off the internet. This script runs in a wrapper that updates the weather information every 1000 seconds.  
