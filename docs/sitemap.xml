@@ -1,71 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://www.danewilliams.me/posts/pastebin-with-serverless-aws/</loc>
-    <lastmod>2020-12-23T00:52:09-07:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://www.danewilliams.me/</loc>
-    <lastmod>2020-12-23T00:52:09-07:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-12-07T00:52:09-07:00</lastmod>
+  </url><url>
     <loc>https://www.danewilliams.me/posts/</loc>
+    <lastmod>2021-12-07T00:52:09-07:00</lastmod>
+  </url><url>
+    <loc>https://www.danewilliams.me/posts/published-my-first-academic-research-paper/</loc>
+    <lastmod>2021-12-07T00:52:09-07:00</lastmod>
+  </url><url>
+    <loc>https://www.danewilliams.me/posts/im-joining-a-software-startup/</loc>
+    <lastmod>2021-10-30T00:52:09-07:00</lastmod>
+  </url><url>
+    <loc>https://www.danewilliams.me/posts/my-experience-interning-at-qualtrics/</loc>
+    <lastmod>2021-09-12T00:52:09-07:00</lastmod>
+  </url><url>
+    <loc>https://www.danewilliams.me/posts/introducing-play-ruski/</loc>
+    <lastmod>2021-05-14T00:52:09-07:00</lastmod>
+  </url><url>
+    <loc>https://www.danewilliams.me/posts/pastebin-with-serverless-aws/</loc>
     <lastmod>2020-12-23T00:52:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.danewilliams.me/posts/google-foobar/</loc>
     <lastmod>2020-08-12T00:52:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.danewilliams.me/posts/hugo-tutorial/</loc>
     <lastmod>2020-08-05T00:52:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.danewilliams.me/posts/building-an-ai-chat-bot/</loc>
     <lastmod>2020-05-17T00:52:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.danewilliams.me/posts/having-fun-with-zig-lang/</loc>
     <lastmod>2020-05-08T00:52:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.danewilliams.me/posts/developing-an-http-web-server-in-c/</loc>
     <lastmod>2020-05-03T00:52:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.danewilliams.me/posts/my-first-open-source-contribution/</loc>
     <lastmod>2020-04-09T22:59:19-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.danewilliams.me/posts/initial-post/</loc>
     <lastmod>2020-03-22T00:52:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.danewilliams.me/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.danewilliams.me/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.danewilliams.me/projects/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.danewilliams.me/tags/</loc>
   </url>
-  
 </urlset>

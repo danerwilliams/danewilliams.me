@@ -6,10 +6,44 @@
     <description>Recent content on Dane Williams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Dec 2020 00:52:09 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 07 Dec 2021 00:52:09 -0700</lastBuildDate><atom:link href="https://www.danewilliams.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Published my first academic research paper</title>
+      <link>https://www.danewilliams.me/posts/published-my-first-academic-research-paper/</link>
+      <pubDate>Tue, 07 Dec 2021 00:52:09 -0700</pubDate>
+      
+      <guid>https://www.danewilliams.me/posts/published-my-first-academic-research-paper/</guid>
+      <description>During the Fall 2020 and Spring 2021 semesters I have been working on a research project in Professor Chaoli Wang&amp;rsquo;s Visualization Lab here at Notre Dame. My team and I have been studying Sankey diagrams, and how we can better illustrate data flow. Specifically we have been analyzing data from ND Learning, and organization on campus that aims to improve learning experiences at Notre Dame for people of all backgrounds.</description>
+    </item>
     
-	<atom:link href="https://www.danewilliams.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I&#39;m joining a software startup!</title>
+      <link>https://www.danewilliams.me/posts/im-joining-a-software-startup/</link>
+      <pubDate>Sat, 30 Oct 2021 00:52:09 -0700</pubDate>
+      
+      <guid>https://www.danewilliams.me/posts/im-joining-a-software-startup/</guid>
+      <description>A few months ago, I saw on Linkedin that a fellow vampire, Zeno Rocha had started a new job at a startup called WorkOS. He said the team was looking to bring on more software engineers and developer experience engineers, so I scheduled a call and learned more about the company from him.
+I quickly became very impressed by what Zeno had shared with me about the company as well as from the research I had done and began the interview process.</description>
+    </item>
     
+    <item>
+      <title>My experience interning at Qualtrics</title>
+      <link>https://www.danewilliams.me/posts/my-experience-interning-at-qualtrics/</link>
+      <pubDate>Sun, 12 Sep 2021 00:52:09 -0700</pubDate>
+      
+      <guid>https://www.danewilliams.me/posts/my-experience-interning-at-qualtrics/</guid>
+      <description>Over the summer I interned at Qualtrics which is an enterprise SaaS company that pioneered the experience management category. This was a really cool experience as it was essentially the first time I worked in a modern software engineering team environment. I was a part of the PX - Frontline Feedback product team, which is responsible for both building new features for Qualtrics Frontline Feedback, as well as maintaining the product&amp;rsquo;s platform.</description>
+    </item>
+    
+    <item>
+      <title>Introducing playruski.com</title>
+      <link>https://www.danewilliams.me/posts/introducing-play-ruski/</link>
+      <pubDate>Fri, 14 May 2021 00:52:09 -0700</pubDate>
+      
+      <guid>https://www.danewilliams.me/posts/introducing-play-ruski/</guid>
+      <description>As a final project for our databases class my friends Jack, Conor, Billy, and I decided to make a web app for a popular sport in our dorm at Notre Dame called Ruski. I won&amp;rsquo;t get into the specifics of the game, but basically we thought it would be interesting to collect data on game results so that we could then rank players.
+Games are typically played in a 2v2 format, so we came up with an algorithm that modifies the Elo rating system in order to rank players.</description>
+    </item>
     
     <item>
       <title>Building a pastebin and url shortener with serverless AWS</title>
@@ -94,8 +128,10 @@ Methodology A couple weeks ago, towards the beginning of corona virus quarantine
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.danewilliams.me/about/</guid>
-      <description>I am computer science major at Notre Dame graduating in 2022. Outside of my studies I am a part of the club water polo team and live in Fisher Hall. Before college I grew up in the Seattle area, where I graduated from Eastside Catholic School and swam for BCST.
-Interests Tech  I&amp;rsquo;m a huge Apple fan and am a macbook, iphone, and ipad pro user. In 2015 I also built a hackintosh, but will probably convert this to a Linux server.</description>
+      <description>Hey there 👋
+I&amp;rsquo;m a 2022 Notre Dame computer science alum. (Go Irish! ☘️) While at Notre Dame I was a proud resident of Fisher Hall and also played on the water polo team.
+Originally I grew up in Seattle and graduated from Eastside Catholic School. Now I work remotely and plan to spend most of my time in New York City and Southern California.
+Most areas of software engineering are intriguing to me, but I am particularly interested in full stack development, cloud engineering, and open source.</description>
     </item>
     
     <item>
@@ -104,7 +140,8 @@ Interests Tech  I&amp;rsquo;m a huge Apple fan and am a macbook, iphone, and ipa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.danewilliams.me/projects/</guid>
-      <description>What I&amp;rsquo;ve Been Working On I will try to update this page as I complete new projects, however the most up to date location of all my projects is of course my github. I also have a gitlab, but so far I only have used this for my classes at Notre Dame that submit assignments through private gitlab repos. A list of my projects in reverse chronological order is below.</description>
+      <description>What I&amp;rsquo;ve Been Working On I will try to update this page as I complete new projects, however the most up to date location of all my projects is of course my github.
+Hierarchical Sankey  June 2021 Blog: Published my first academic research paper! Repo: billyporter/hierarchical-sankey  At Notre Dame I am member of Professor Chaoli Wang&amp;rsquo;s Data Visualization lab. As part of research on sankey diagrams, we developed visual analytics tools for ND Learning.</description>
     </item>
     
   </channel>

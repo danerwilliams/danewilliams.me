@@ -8,3 +8,6 @@ Built with [hugo](https://gohugo.io/) & [coder](https://github.com/luizdepra/hug
 * `git submodule init`
 * `git submodule update`
 * `hugo server -D`
+
+## Build
+`hugo -D`
