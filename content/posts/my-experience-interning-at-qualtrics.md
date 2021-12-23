@@ -23,7 +23,7 @@ Below are a few photos from the trip :-)
 
 ![seattle_view](/images/seattle_view.jpg)
 
-Ultimately, in the process of building this feature I learned all about working in a large codebase with many contributors and how to effectively maintain it, while also improving my full stack development skills. 
+Ultimately, in the process of building my feature I learned all about working in a large codebase with many contributors and how to effectively maintain it, while also improving my full stack development skills. 
 From writing automated tests, to improving the readability of my code, I got tons of valuable feedback from the other members of the team on every merge request I submitted this summer and I am much stronger developer as a result. 
 
 My code is currently in our production codebase and is hidden from external users with our feature flipper. 

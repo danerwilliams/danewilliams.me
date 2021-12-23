@@ -6,7 +6,7 @@ author: "Dane Williams"
 
 ## Introduction
 
-As the final project for my [systems programming](https://www3.nd.edu/~pbui/teaching/cse.20289.sp20/) class at Notre Dame my partner, Conor Murphy, and I developed a simple http web server server (similar to apache). 
+As the final project for my [systems programming](https://www3.nd.edu/~pbui/teaching/cse.20289.sp20/) class at Notre Dame my partner, Conor Murphy, and I developed a simple http web server server (similar to nginx). 
 We did this entirely in C, which was a great opportunity to learn about networking specific issues such as commication over sockets, as well as low level functions and system calls for memory allocation and file/directory manipulation. 
 
 ## Development

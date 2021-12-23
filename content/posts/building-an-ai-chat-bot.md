@@ -15,18 +15,18 @@ For obvious privacy reasons the neural network created by ChatterBot is not on g
 
 ## Gathering Data
 
-While I deployed Pork Chop in a groupme conversation, we trained him from 70,000 texts from the 2020 spring semester an imessage group chat. 
+While I deployed Pork Chop in a groupme conversation, we trained him from 70,000 texts in an imessage group chat. 
 Getting this data is simpler than you'd think. 
-Simply navigate to /Users/yourUsernameHere/Library/Messages/chat.db where there is a sql database file containing all of the imessages currently on your mac. 
+Simply navigate to `/Users/yourUsernameHere/Library/Messages/chat.db` where there is a sql database file containing all of the imessages currently on your mac. 
 From here we isolated the message data from the specific conversation we wanted to pull data from and exported the messages to a single column in a csv. 
 We found that preprocessing the data was very useful for training Pork Chop especially because with a group chat people's thoughts are pretty scattered which can make things difficult for the ChatterBot algorithm to work with effectively. 
 The biggest thing for us was eliminating the reacts i.e. 'laughed at "a previous message"', which we simply filtered out by using grep and some regex. 
 
 ## Using ChatterBot
 
-Chatterbot make training and using your chat bot super simple. 
-All we had to do was write a function to turn our csv data in to a list, and then use ChatterBot's list trainer method which will train based on the data and export the neural network in a .sqlite3 file. 
-From here all you really need to do is pass a message through the ChatterBot get response function and it will return a string which is Pork Chop's best guess on how to reply based on the training it did!
+Chatterbot made training and using your chat bot super simple. 
+All we had to do was write a function to turn our csv data into a list, and then use ChatterBot's list trainer method which will train based on the data and export the neural network into a .sqlite3 file. 
+From here all you really need to do is pass a message through the ChatterBot get response function and it will return a string which is Pork Chop's best guess on how to reply based on it's neural net!
 
 ## Deployment
 

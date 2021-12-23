@@ -6,14 +6,24 @@
     <description>Recent content on Dane Williams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Dec 2021 00:52:09 -0700</lastBuildDate><atom:link href="https://www.danewilliams.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Dec 2021 00:52:09 -0700</lastBuildDate><atom:link href="https://www.danewilliams.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Officially a Notre Dame alumnus</title>
+      <link>https://www.danewilliams.me/posts/officially-a-notre-dame-alumnus/</link>
+      <pubDate>Wed, 22 Dec 2021 00:52:09 -0700</pubDate>
+      
+      <guid>https://www.danewilliams.me/posts/officially-a-notre-dame-alumnus/</guid>
+      <description>After 7 semesters, I can finally call myself a Notre Dame alum!
+There have been so many memories made these past few years, from some of the awesome football wins we&amp;rsquo;ve had (especially thinking about the 2020 Clemson game) to the amazing friends I&amp;rsquo;ve met in Fisher and on water polo. Of course, it was not all easy. Between Covid, difficult classes, and the cold weather, there were plenty of struggles, but it was all worth it and I could not have asked for a better college experience.</description>
+    </item>
+    
     <item>
       <title>Published my first academic research paper</title>
       <link>https://www.danewilliams.me/posts/published-my-first-academic-research-paper/</link>
       <pubDate>Tue, 07 Dec 2021 00:52:09 -0700</pubDate>
       
       <guid>https://www.danewilliams.me/posts/published-my-first-academic-research-paper/</guid>
-      <description>During the Fall 2020 and Spring 2021 semesters I have been working on a research project in Professor Chaoli Wang&amp;rsquo;s Visualization Lab here at Notre Dame. My team and I have been studying Sankey diagrams, and how we can better illustrate data flow. Specifically we have been analyzing data from ND Learning, and organization on campus that aims to improve learning experiences at Notre Dame for people of all backgrounds.</description>
+      <description>During the Fall 2020 and Spring 2021 semesters I have been working on a research project in Professor Chaoli Wang&amp;rsquo;s Visualization Lab here at Notre Dame. My team and I have been studying Sankey diagrams, and how we can better illustrate data flow. Specifically we have been analyzing data from ND Learning, an organization on campus that aims to improve learning experiences at Notre Dame for people of all backgrounds.</description>
     </item>
     
     <item>
@@ -22,7 +32,7 @@
       <pubDate>Sat, 30 Oct 2021 00:52:09 -0700</pubDate>
       
       <guid>https://www.danewilliams.me/posts/im-joining-a-software-startup/</guid>
-      <description>A few months ago, I saw on Linkedin that a fellow vampire, Zeno Rocha had started a new job at a startup called WorkOS. He said the team was looking to bring on more software engineers and developer experience engineers, so I scheduled a call and learned more about the company from him.
+      <description>A few months ago, I saw on Linkedin that a fellow vampire, Zeno Rocha had started a new job at a startup called WorkOS. He said the team was looking to bring on more software engineers, so I scheduled a call and learned more about the company from him.
 I quickly became very impressed by what Zeno had shared with me about the company as well as from the research I had done and began the interview process.</description>
     </item>
     
@@ -61,7 +71,7 @@ Games are typically played in a 2v2 format, so we came up with an algorithm that
       
       <guid>https://www.danewilliams.me/posts/google-foobar/</guid>
       <description>Discovery Recently I was looking up some java documentation as I have not worked with the language since my AP CS class sophomore year of high school, and ended up coming across an exciting surprise!
-Intrigued, I proceeded by clicking the button &amp;ldquo;I want to play&amp;rdquo;, and discovered the Google FooBar challenge! Clicking the button led me to a terminal in the browser with some instructions, which allows for your to request different coding challenges which can be solved in python 2 (no python 3 :/ ) or in java.</description>
+Intrigued, I proceeded by clicking the button &amp;ldquo;I want to play&amp;rdquo;, and discovered the Google FooBar challenge! Clicking the button led me to a terminal in the browser with some instructions, which allows for your to request different coding challenges which can be solved in python 2 (no python 3 :-/ ) or in java.</description>
     </item>
     
     <item>
@@ -99,7 +109,7 @@ Thoughts on Zig Since I had next to no background knowledge on zig programming, 
       <pubDate>Sun, 03 May 2020 00:52:09 -0700</pubDate>
       
       <guid>https://www.danewilliams.me/posts/developing-an-http-web-server-in-c/</guid>
-      <description>Introduction As the final project for my systems programming class at Notre Dame my partner, Conor Murphy, and I developed a simple http web server server (similar to apache). We did this entirely in C, which was a great opportunity to learn about networking specific issues such as commication over sockets, as well as low level functions and system calls for memory allocation and file/directory manipulation.
+      <description>Introduction As the final project for my systems programming class at Notre Dame my partner, Conor Murphy, and I developed a simple http web server server (similar to nginx). We did this entirely in C, which was a great opportunity to learn about networking specific issues such as commication over sockets, as well as low level functions and system calls for memory allocation and file/directory manipulation.
 Development I&amp;rsquo;ll spare the details here but the development process for this was very reading heavy.</description>
     </item>
     

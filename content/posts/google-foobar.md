@@ -11,7 +11,7 @@ Recently I was looking up some java documentation as I have not worked with the 
 ![foobar1](/images/foobar1.jpg)
 
 Intrigued, I proceeded by clicking the button "I want to play", and discovered the Google FooBar challenge!
-Clicking the button led me to a terminal in the browser with some instructions, which allows for your to request different coding challenges which can be solved in python 2 (no python 3 :/ ) or in java. 
+Clicking the button led me to a terminal in the browser with some instructions, which allows for your to request different coding challenges which can be solved in python 2 (no python 3 :-/ ) or in java. 
 
 ![foobar2](/images/foobar2.jpg)
 
