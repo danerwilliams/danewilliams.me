@@ -56,15 +56,10 @@ publishDir = "docs/"
 	weight = 2
 	url = "https://linkedin.com/in/danerwilliams/"
 [[params.social]]
-    name = "Gitlab"
-    icon = "fab fa-gitlab"
+    name = "Twitter"
+    icon = "fab fa-twitter"
     weight = 3
-    url = "https://gitlab.com/dwilli36/"
-[[params.social]]
-	name = "Resume"
-	icon = "far fa-file-alt"
-	weight = 4
-	url = "https://danerwilliams.github.io/resume/DaneWilliamsResume.pdf"
+    url = "https://twitter.com/danerwilliams/"
 
 # Menu links
 [[menu.main]]
